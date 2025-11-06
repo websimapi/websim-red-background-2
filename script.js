@@ -1,0 +1,1 @@
+// Intentionally left blank — page is purely a static red background.
